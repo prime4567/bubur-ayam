@@ -1,7 +1,6 @@
 ---
 title: Bubur Ayam Cianjur, Ciawi Depan Rancamaya
 date: 2022-06-12T08:25:04.659Z
-description: Bubur Ayam Cianjur Spesial di seberang Rancamaya, Ciawi
 cover_image: /img/logo-bubur-cianjur.jpg
 ---
 This is a sight for sore eyes. Setelah lari dari villa tempat kami tinggal hingga jalan raya, sejauh kurang lebih 4 km, dengan jalur yang naik turun, akhirnya menemukan bubur ayam tepat di seberang pintu masuk Rancamaya.
