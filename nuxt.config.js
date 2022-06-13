@@ -4,9 +4,9 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'nuxt-toolbox',
+    title: 'Bubur Ayam',
     htmlAttrs: {
-      lang: 'en',
+      lang: 'id',
     },
     meta: [
       { charset: 'utf-8' },
@@ -33,8 +33,10 @@ export default {
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
-  modules: [],
+  modules: ['@nuxtjs/tailwindcss'],
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {},
+
+  devServerHandlers: [],
 }
