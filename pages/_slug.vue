@@ -5,30 +5,28 @@
         <h2 class="flex justify-center font-medium leading-tight text-2xl mt-0 text-blue-600 block">#timbuburdiaduk</h2>
     </header>
     <div class="container mx-auto pt-16 lg:pt-32">
-      <ul>
-        <li v-for="blog of blogs" :key="blog.slug">
-          <NuxtLink :to="blog.slug">
-            <div>
-              <nuxt-img :src="blog.cover_image" sizes="sm:100vw md:50vw lg:600px"/>
-              <h3 class="font-medium text-2xl mt-2">{{ blog.title }}</h3>
-            </div>
-          </NuxtLink>
-        </li>
-      </ul>
+      <NuxtLink :to="article.slug">
+        <div>
+          <nuxt-img :src="article.cover_image" sizes="sm:100vw md:50vw lg:600px"/>
+          <h3 class="font-medium text-2xl mt-2">{{ article.title }}</h3>
+          <nuxt-content :document="article" />
+        </div>
+      </NuxtLink>
     </div>
   </main>
 </template>
 <script>
 export default {
   async asyncData({ $content, params, error }) {
-    const blogs = await $content('blog')
+    let article;
+    article = await $content("blog", params.slug)
       .fetch()
       .catch(err => {
         error({ statusCode: 404, message: "Page not found" });
       });
 
     return {
-      blogs
+      article
     };
   }
 };
