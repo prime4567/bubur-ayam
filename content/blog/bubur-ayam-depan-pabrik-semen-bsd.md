@@ -1,5 +1,5 @@
 ---
-title: Bubur Ayam Depan Pabrik Semen, BSD
+title: Bubur Ayam Depan Pabrik Semen BSD, Tangerang Selatan
 date: 2022-06-19T11:38:01.907Z
 location: '{"type":"Point","coordinates":[106.6894317,-6.3119865]}'
 cover_image: /img/gerobak-bubur-ayam-semen.jpg
