@@ -1,9 +1,6 @@
 <template>
   <main>
-    <header>
-        <h1 class="flex justify-center font-medium leading-tight text-5xl mt-0 text-blue-600 block">Bubur Ayam</h1>
-        <h2 class="flex justify-center font-medium leading-tight text-2xl mt-0 text-blue-600 block">#timbuburdiaduk</h2>
-    </header>
+    <PageHeader />
     <div class="container mx-auto pt-16 lg:pt-32 px-2 md:px-16 lg:px-32 xl:px-64">
       <NuxtLink :to="article.slug">
         <div>

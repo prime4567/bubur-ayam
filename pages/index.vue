@@ -1,12 +1,6 @@
 <template>
   <main>
-    <header>
-        <nuxt-img class="flex mx-auto mt-8" src="/img/logo-bubur-ayam.png" alt="Logo Bubur Ayam #timbuburdiaduk" />
-        <!--
-        <h1 class="flex justify-center font-medium leading-tight text-5xl mt-0 text-blue-600 block">Bubur Ayam</h1>
-        <h2 class="flex justify-center font-medium leading-tight text-2xl mt-0 text-blue-600 block">#timbuburdiaduk</h2>
-        -->
-    </header>
+    <PageHeader />
     <div class="container mx-auto pt-16 px-2 lg:pt-32">
       <h3 class="font-medium text-3xl mt-2 mb-4">Latest Post</h3>
       <div class="grid lg:grid-rows-3 lg:grid-flow-col lg:gap-x-8 gap-y-4">
