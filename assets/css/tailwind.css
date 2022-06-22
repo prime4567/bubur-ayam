@@ -3,3 +3,4 @@
 @tailwind utilities;
 
 p { @apply mb-5 }
+body { @apply bg-ivory }
