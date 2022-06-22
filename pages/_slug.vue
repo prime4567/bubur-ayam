@@ -10,6 +10,7 @@
         </div>
       </NuxtLink>
     </div>
+    <PageFooter />
   </main>
 </template>
 <script>
