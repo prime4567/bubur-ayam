@@ -3,6 +3,7 @@ title: Bubur Ayam Cianjur, Ciawi Depan Rancamaya
 date: 2022-06-12T08:25:04.659Z
 location: '{"type":"Point","coordinates":[106.845136,-6.6625176]}'
 cover_image: /img/logo-bubur-cianjur.jpg
+rating: 6
 tags:
   - buburayamcianjur
   - ciawi

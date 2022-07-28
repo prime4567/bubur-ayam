@@ -3,6 +3,7 @@ title: Bubur Ayam Cirebon C7 Pamulang, Tangerang Selatan
 date: 2022-07-21T02:15:41.644Z
 location: '{"type":"Point","coordinates":[106.7125112,-6.3441315]}'
 cover_image: /img/facade-bubur-ayam-c7.jpg
+rating: 10
 tags:
   - tangerangselatan
   - pamulang
