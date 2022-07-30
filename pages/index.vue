@@ -9,10 +9,14 @@
             <div v-if="index===0">
               <nuxt-img :src="blog.cover_image" sizes="sm:100vw lg:600px"/>
               <h4 class="font-medium text-2xl mt-2">{{ blog.title }}</h4>
+              <star-rating :rating="blog.rating"/>
             </div>
             <div class="lg:flex" v-else>
               <nuxt-img :src="blog.cover_image" sizes="sm:100vw md:100vw lg:200px" class="lg:pr-4"/>
-              <h4 class="font-medium text-2xl mt-2">{{ blog.title }}</h4>
+              <div>
+                <h4 class="font-medium text-2xl mt-2">{{ blog.title }}</h4>
+                <star-rating :rating="blog.rating"/>
+              </div>
             </div>
           </NuxtLink>
         </div>
