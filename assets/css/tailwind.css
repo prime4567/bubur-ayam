@@ -2,13 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+:root {
+    --star-color-filled: #FFD700;
+    --star-color-blank: #D3D3D3;
+}
+
 p { @apply mb-5 }
 body { @apply bg-ivory }
-
-.star-svg-full {
-    fill: #FFD700 ;
-}
-
-.star-svg-blank {
-    fill: #D3D3D3 ;
-}
