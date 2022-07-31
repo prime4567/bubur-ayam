@@ -1,11 +1,12 @@
 <template>
   <main>
     <PageHeader />
-    <div class="container mx-auto pt-16 lg:pt-32 px-2 md:px-16 lg:px-32 xl:px-64">
+    <div class="container mx-auto pt-4 mt-12 lg:mt-28 px-2 md:px-16 lg:px-32 xl:px-64">
       <NuxtLink :to="article.slug">
         <div>
           <nuxt-img :src="article.cover_image" sizes="sm:100vw md:100vw lg:100vw" />
-          <h3 class="font-medium text-2xl mt-2 mb-4">{{ article.title }}</h3>
+          <h3 class="font-medium text-4xl mt-2 mb-2">{{ article.title }}</h3>
+          <div class="flex mb-4 text-lg font-bold">Rating: <star-rating :rating="article.rating" /></div>
           <nuxt-content :document="article" />
         </div>
       </NuxtLink>

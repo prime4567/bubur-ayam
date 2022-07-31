@@ -11,7 +11,7 @@
             <path v-else-if="(index*2-rating)==1" fill="url(#half)" d="m25,1 6,17h18l-14,11 5,17-15-10-15,10 5-17-14-11h18z"/>
             <path v-else class="star-svg-blank" d="m25,1 6,17h18l-14,11 5,17-15-10-15,10 5-17-14-11h18z"/>
         </svg>
-        {{ rating }}
+        {{ rating }}/10
     </div>
 </template>
 <script>
