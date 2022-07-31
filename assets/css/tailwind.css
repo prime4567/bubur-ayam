@@ -9,3 +9,5 @@
 
 p { @apply mb-5 }
 body { @apply bg-ivory }
+
+.section-header { @apply font-medium text-3xl mt-2 pb-1 mb-3 border-b-4 w-fit }
