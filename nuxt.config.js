@@ -1,3 +1,5 @@
+import getRoutes from "./utils/getRoutes";
+
 export default {
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
@@ -40,10 +42,18 @@ export default {
     '@nuxtjs/tailwindcss', 
     '@nuxt/content',
     '@nuxt/image',
+    '@nuxtjs/sitemap',
   ],
 
   content: {
 
+  },
+
+  sitemap: { 
+    hostname: 'https://buburayam.id',
+    routes() {
+      return getRoutes();
+    },
   },
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
