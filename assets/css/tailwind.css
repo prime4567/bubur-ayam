@@ -5,6 +5,7 @@
 :root {
     --star-color-filled: #FFD700;
     --star-color-blank: #D3D3D3;
+    --location-icon:  #C70039;
 }
 
 p { @apply mb-5 }

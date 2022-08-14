@@ -1,6 +1,6 @@
 <template>
     <div class="flex">
-        <svg v-for="index in 5" :key=index version="1.1" xmlns="http://www.w3.org/2000/svg"  width="21px" viewBox="0 0 50 50">
+        <svg v-for="index in 5" :key=index version="1.1" xmlns="http://www.w3.org/2000/svg"  width="25px" viewBox="0 0 50 50">
             <defs>
                 <linearGradient id="half" x1="0" x2="100%" y1="0" y2="0">
                     <stop offset="50%" stop-color="var(--star-color-filled)"></stop>
