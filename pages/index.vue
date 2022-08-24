@@ -37,7 +37,7 @@
     <!-- ---------------- Show older post ---------------- -->
     <div class="container mx-auto pt-16 px-2 lg:pt-32">
       <h3 class="section-header">Other Bubur Ayam</h3>
-      <div class="grid lg:grid-cols-2 lg:grid-flow-col lg:gap-x-8 gap-y-4">
+      <div class="grid lg:grid-cols-2 lg:gap-x-8 gap-y-4">
         <div v-for="blog in remaining_blogs" :key="blog.slug">
           <div class="lg:flex">
             <NuxtLink :to="blog.slug">
