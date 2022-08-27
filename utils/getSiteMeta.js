@@ -1,7 +1,7 @@
 const type = "website";
 const url = "https://buburayam.id";
 const title = "Bubur Ayam";
-const description = "Cerita penikmat bubud ayam";
+const description = "Cerita penikmat bubur ayam";
 const mainImage = "/img/bubur-ayam-c7.jpg";
 
 export default (meta) => {

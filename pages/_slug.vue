@@ -15,7 +15,10 @@
     <PageFooter />
   </main>
 </template>
+
 <script>
+import getSiteMeta from '@/utils/getSiteMeta';
+
 export default {
   async asyncData({ $content, params, error }) {
     let article;
@@ -29,6 +32,34 @@ export default {
       article
     };
   },
+
+  head() {
+    return {
+      title: this.article.title,
+      meta: [
+        ...this.meta,
+        {
+          property: "article:tag",
+          content: this.article.tags ? this.article.tags.toString() : "",
+        },
+        { name: "twitter:label1", content: "Written by" },
+        { name: "twitter:data1", content: "Penikmat Bubur" },
+        { name: "twitter:label2", content: "Filed under" },
+        {
+          name: "twitter:data2",
+          content: this.article.tags ? this.article.tags.toString() : "",
+        },
+      ],
+      link: [
+        {
+          hid: "canonical",
+          rel: "canonical",
+          href: `https://buburayam.id/${this.$route.params.slug}`,
+        },
+      ],
+    };
+  },
+
   computed: {
     // a computed getter
     mapUrl() {
@@ -49,7 +80,7 @@ export default {
         type: 'article',
         title: this.article.title,
         description: this.article.description,
-        url: `${this.$config.baseUrl}/articles/${this.$route.params.slug}`,
+        url: `https://buburayam.id/${this.$route.params.slug}`,
         mainImage: this.article.cover_image,
       };
       return getSiteMeta(metaData);
