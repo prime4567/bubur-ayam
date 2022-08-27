@@ -1,4 +1,6 @@
 import getRoutes from "./utils/getRoutes";
+import getSiteMeta from "./utils/getSiteMeta";
+const meta = getSiteMeta();
 
 export default {
   // Target: https://go.nuxtjs.dev/config-target
@@ -11,6 +13,7 @@ export default {
       lang: 'id',
     },
     meta: [
+      ...meta,
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { hid: 'description', name: 'description', content: 'Catatan penikmat bubur ayam' },

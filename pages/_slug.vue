@@ -43,7 +43,17 @@ export default {
       return "https://maps.googleapis.com/maps/api/staticmap?key=AIzaSyAb_uizjteOq-jXi2yEf3AKechINF7-9Ng&size=1024x400&zoom=16&center="
         + JSON.parse(this.article.location).coordinates[1] + "," + JSON.parse(this.article.location).coordinates[0]
         + "&markers=color:0xFFFF00%7Clabel:X%7C" + JSON.parse(this.article.location).coordinates[1] + "," + JSON.parse(this.article.location).coordinates[0];
-    }
+    },
+    meta() {
+      const metaData = {
+        type: 'article',
+        title: this.article.title,
+        description: this.article.description,
+        url: `${this.$config.baseUrl}/articles/${this.$route.params.slug}`,
+        mainImage: this.article.cover_image,
+      };
+      return getSiteMeta(metaData);
+    },
   }
 };
 </script>
