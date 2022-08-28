@@ -80,8 +80,8 @@ export default {
         type: 'article',
         title: this.article.title,
         description: this.article.description,
-        url: `https://buburayam.id/${this.$route.params.slug}`,
-        mainImage: this.article.cover_image,
+        url: `${this.$config.baseURL}/${this.$route.params.slug}`,
+        mainImage: `${this.$config.baseURL}${this.article.cover_image}`,
       };
       return getSiteMeta(metaData);
     },

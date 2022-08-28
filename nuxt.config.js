@@ -6,6 +6,10 @@ export default {
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
 
+  publicRuntimeConfig: {
+    baseURL: process.env.BASE_URL || 'https://buburayam.id'
+  },
+
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     title: 'Bubur Ayam',
