@@ -1,5 +1,5 @@
 ---
-title: Bubur Ayam Pasar Thomas, Cideng
+title: Bubur Ayam Pasar Thomas Cideng, Jakarta Pusat
 date: 2022-10-25T05:43:15.607Z
 location: '{"type":"Point","coordinates":[106.8132777,-6.1795119]}'
 cover_image: /img/bubur-pasar-thomas.jpg
