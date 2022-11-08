@@ -9,6 +9,15 @@
 }
 
 p { @apply mb-5 }
-body { @apply bg-ivory }
 
-.section-header { @apply font-medium text-3xl mt-2 pb-1 mb-3 border-b-4 w-fit }
+body { 
+    background-color: #F5F5F5;
+}
+
+footer {
+    margin-top: 40px;
+    padding-top: 10px;
+    background-color:#E8E8E8;
+}
+
+.section-header { @apply font-bold text-3xl mt-2 pb-1 mb-3 w-fit }

@@ -44,7 +44,7 @@
               <nuxt-img :src="blog.cover_image" sizes="sm:100vw md:100vw lg:200px" class="lg:pr-4"/>
             </NuxtLink>
             <div>
-              <NuxtLink :to="blog.slug"><h4 class="font-medium text-2xl mt-2">{{ blog.title }}</h4></NuxtLink>
+              <NuxtLink :to="blog.slug"><h4 class="font-medium text-xl mt-2">{{ blog.title }}</h4></NuxtLink>
               <div class="flex gap-4 mt-2">
                 <star-rating :rating="blog.rating"/>
                 <map-link :location="blog.location" />
