@@ -5,7 +5,7 @@ location: '{"type":"Point","coordinates":[106.7092405,-6.3275153]}'
 cover_image: /img/ciptarasa1.jpg
 rating: 10
 tags:
-  - tansel
+  - tangsel
   - pamulang
   - ciptarasa
 ---

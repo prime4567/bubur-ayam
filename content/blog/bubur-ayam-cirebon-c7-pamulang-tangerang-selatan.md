@@ -5,9 +5,8 @@ location: '{"type":"Point","coordinates":[106.7125112,-6.3441315]}'
 cover_image: /img/facade-bubur-ayam-c7.jpg
 rating: 10
 tags:
-  - tangerangselatan
+  - tangsel
   - pamulang
-  - ""
 ---
 Kalau tempat bubur ayam ini mengingatkan kalian akan warteg franchise yang tersohor itu, jangan khawatir. Saya sendiri juga pertama mengira tempat ini adalah warteg. Tapi kalau dibaca baik-baik, ternyata tempat ini hanya menjual 1 menu, yaitu bubur ayam.
 
