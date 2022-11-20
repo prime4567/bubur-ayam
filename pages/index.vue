@@ -2,7 +2,7 @@
   <main>
     <PageHeader />
     <!-- ---------------- Show latest post ---------------- -->
-    <div class="container mx-auto pt-16 px-2 lg:pt-32">
+    <div class="container mx-auto pt-8 px-2 lg:pt-24">
       <h3 class="section-header">Latest Eat</h3>
       <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 lg:gap-x-8 gap-y-16">
         <div v-for="(blog) of blogs" :key="blog.slug">          

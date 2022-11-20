@@ -21,3 +21,14 @@ footer {
 }
 
 .section-header { @apply font-bold text-3xl mt-2 pb-1 mb-3 w-fit }
+
+.location-item { 
+    background-color:  #EADDCA;
+    padding-top: 32px;
+    padding-bottom: 32px;
+    padding-left: 24px;
+}
+
+.location-label { 
+    @apply text-xl
+}
