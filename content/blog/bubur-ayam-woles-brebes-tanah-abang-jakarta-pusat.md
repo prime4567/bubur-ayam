@@ -7,6 +7,7 @@ rating: 8
 tags:
   - tanahabang
   - gambir
+  - cideng
 ---
 Bubur Ayam Woles ala Brebes mangkal di depan bengkel di Jalan Abdul Muis, Tanah Abang. Karena mangkal di depan bengkel, maka ketika bengkel buka, bubur ini pun selesai berjualan.
 

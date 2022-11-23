@@ -35,5 +35,5 @@ footer {
 }
 
 .main-menu-item {
-    @apply font-semibold py-2 px-4 rounded-full
+    @apply font-semibold py-2 px-4 rounded-full text-lg
 }

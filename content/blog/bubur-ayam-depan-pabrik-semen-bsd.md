@@ -5,7 +5,7 @@ location: '{"type":"Point","coordinates":[106.6894317,-6.3119865]}'
 cover_image: /img/gerobak-bubur-ayam-semen.jpg
 rating: 7
 tags:
-  - bsd.serpong
+  - bsd
   - pasar
 ---
 Bubur ayam ini jualan tiap pagi di depan pabrik semen. Jadi kalau dari pasar modern BSD menuju ke selatan, di lampu merah setelah Intermark, lalu belok kanan. Sebelah kiri ada pabrik semen, dan bubur ayam ini berjualan tidak jauh dari pintu masuk pabrik semen tersebut

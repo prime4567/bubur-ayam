@@ -7,7 +7,7 @@ rating: 9
 tags:
   - jombang
   - sudimara
-  - tangerangselatan
+  - tangsel
 ---
 Bubur ayam favorit baru saya. Rasanya cenderung manis, tapi dengan isian yang lengkap, rasanya bukan cuma bikin kenyang, tapi puas
 
