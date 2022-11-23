@@ -20,7 +20,7 @@ export default {
         { tag: 'bsd', name: 'BSD' },
         { tag: 'ciawi', name: 'Ciawi' },
         { tag: 'jombang', name: 'Jombang' },
-        { tag: 'jakasel', name: 'Jakarta Selatan' },
+        { tag: 'jaksel', name: 'Jakarta Selatan' },
         { tag: 'pamulang', name: 'Pamulang' },
         { tag: 'tangsel', name: 'Tangerang Selatan' },
       ]
