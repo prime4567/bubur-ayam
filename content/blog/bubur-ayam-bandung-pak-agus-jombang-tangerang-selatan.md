@@ -6,7 +6,8 @@ cover_image: /img/gerobak-bubur-ayam-pak-agus.jpg
 rating: 9
 tags:
   - jombang
-  - sudimara.tangsel
+  - sudimara
+  - tangsel
 ---
 Sudah lama saya memperhatikan Bubur Ayam Bandung Pak Agus. Kenapa? Soalnya jarang ada Bubur Ayam Bandung. Kalau Bubur Ayam Cirebon atau Cianjur kan sudah banyak bukan? Apalagi letak Bubur Ayam Bandung Pak Agus sulit untuk tidak terlihat, tepat di pojok tikungan Jalan Raya Jombang yang selalu saya lewati setiap kali mau ke Stasiun Sudimara
 
