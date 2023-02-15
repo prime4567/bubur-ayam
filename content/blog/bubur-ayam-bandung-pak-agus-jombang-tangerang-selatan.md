@@ -9,7 +9,7 @@ tags:
   - sudimara
   - tangsel
 ---
-Sudah lama saya memperhatikan Bubur Ayam Bandung Pak Agus. Kenapa? Soalnya jarang ada Bubur Ayam Bandung. Kalau Bubur Ayam Cirebon atau Cianjur kan sudah banyak bukan? Apalagi letak Bubur Ayam Bandung Pak Agus sulit untuk tidak terlihat, tepat di pojok tikungan Jalan Raya Jombang yang selalu saya lewati setiap kali mau ke Stasiun Sudimara
+Sudah lama saya memperhatikan Bubur Ayam Bandung Pak Agus. Kenapa? Soalnya jarang ada Bubur Ayam Bandung. Kalau Bubur Ayam Cirebon atau Cianjur kan sudah banyak bukan? Apalagi letak Bubur Ayam Bandung Pak Agus sulit untuk tidak terlihat, tepat di pojok tikungan Jalan Raya Jombang yang selalu saya lewati setiap kali mau ke Stasiun Sudimara. Posisi tepatnya hanya beberapa meter dari [Bubur Ayam VJB](/bubur-ayam-vjb-jombang-tangerang-selatan/).
 
 ![](/img/bubur-ayam-pak-agus.jpg)
 
