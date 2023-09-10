@@ -12,6 +12,6 @@ Beberapa waktu yang lalu saya pernah mengulas [Bubur Ayam Pak Gendut di BSD Plaz
 
 ![](/img/bubur-pak-gendut3.jpg)
 
-Sama seperti yang di BSD Plaza, tata letak Bubur Ayam Pak Gendut memberikan pilihan kepada kita yang mau lebih sedikit kecap, atau tidak mau kacang. Tapi kali ini rasanya Bubur Ayam Pak Gendut sedikit terlalu asin. Saya coba tambahkan sedikit kaldu, tetapi tidak mengurangi rasa asin.
+Sama seperti yang di BSD Plaza, tata letak Bubur Ayam Pak Gendut memberikan pilihan kepada kita yang mau lebih sedikit kecap, atau tidak mau kacang. Yang spesial dari bubur ayam ini adalah potngan daun bawang yang segar dan renyah. Tapi kali ini rasanya Bubur Ayam Pak Gendut sedikit terlalu asin. Saya coba tambahkan sedikit kaldu, tetapi tidak mengurangi rasa asin.
 
 Overall Bubur Ayam Pak Gendut tetap menyenangkan. Ditambah ada tempelan stiker "NO SMOKING" di tempat makan bubur, sehingga membuat suasana makan lebih nyaman karena bebas asap rokok.
